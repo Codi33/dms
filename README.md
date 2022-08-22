@@ -28,5 +28,7 @@ example.<br/><br/>
 To run over tor - start hidden service on the same port as server<br/>
 and edit client file to match addresses
 
+**Termux + Orbot Supported**
+
 ## Contributing
 Pull requests are welcome. If you encountered a bug, please open  an issue to discuss this.
